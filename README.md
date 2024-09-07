@@ -1,2 +1,16 @@
 <h1 align="center">ATT (Arcade Theme Tools)</h1>
 <p align="center"> <img src="https://yourimageurl.com/logo.png" alt="ATT Logo" width="200"/> </p> <p align="center"> <b>La herramienta definitiva para crear temas en HD para HyperSpin</b> </p> <p align="center"> <a href="https://github.com/tuusuario/att/issues"> <img src="https://img.shields.io/github/issues/tuusuario/att" alt="GitHub Issues"/> </a> <a href="https://github.com/tuusuario/att/stargazers"> <img src="https://img.shields.io/github/stars/tuusuario/att" alt="GitHub Stars"/> </a> <a href="https://github.com/tuusuario/att/blob/main/LICENSE"> <img src="https://img.shields.io/github/license/tuusuario/att" alt="License"/> </a> </p>
+🚀 Características
+<ul> <li><b>Soporte para HD:</b> Crea temas en alta definición (720p, 1080p) para mejorar la experiencia visual de HyperSpin.</li> <li><b>Edición avanzada:</b> Personaliza completamente el diseño de tus temas con imágenes, animaciones, videos y más.</li> <li><b>Exportación rápida:</b> Herramientas optimizadas para exportar tus creaciones sin complicaciones.</li> <li><b>Compatibilidad con múltiples formatos:</b> Trabaja con imágenes, GIFs animados y videos.</li> <li><b>Animaciones fluidas:</b> Integra y personaliza animaciones en los elementos de tus temas de manera intuitiva.</li> </ul>
+🛠️ Instalación
+<ol> <li>Clona el repositorio: <pre><code>git clone https://github.com/tuusuario/att.git</code></pre> </li> <li>Abre el proyecto en tu editor preferido (Visual Studio, Visual Studio Code).</li> <li>Instala las dependencias necesarias: <pre><code>nuget install</code></pre> </li> <li>Compila el proyecto y ejecuta la aplicación.</li> </ol>
+📖 Uso
+<ol> <li>Inicia la aplicación <b>ATT</b>.</li> <li>Selecciona los elementos visuales que deseas agregar al tema (fondos, artworks, videos).</li> <li>Utiliza el panel de capas para ordenar y ajustar cada elemento según tus necesidades.</li> <li>Exporta el tema una vez terminado, ya sea como tema estático o animado, listo para usarse en HyperSpin.</li> </ol>
+💡 Funciones destacadas
+<ul> <li><b>Animaciones personalizadas:</b> ATT te permite animar elementos visuales usando imágenes, GIFs y videos de manera fluida.</li> <li><b>Previsualización en tiempo real:</b> Visualiza cómo lucirá tu tema mientras lo diseñas.</li> <li><b>Exportación directa a HyperSpin:</b> Guarda y exporta los temas listos para ser usados en HyperSpin sin necesidad de configuraciones adicionales.</li> </ul>
+🤝 Contribuciones
+<p>¡Las contribuciones son bienvenidas! Si encuentras algún problema o tienes sugerencias para mejorar la aplicación, no dudes en abrir un <a href="https://github.com/tuusuario/att/issues">issue</a> o enviar un <a href="https://github.com/tuusuario/att/pulls">pull request</a>.</p>
+📝 Licencia
+<p>Este proyecto está bajo la licencia <a href="https://github.com/tuusuario/att/blob/main/LICENSE">MIT</a>. Consulta el archivo <a href="https://github.com/tuusuario/att/blob/main/LICENSE">LICENSE</a> para más detalles.</p>
+📷 Capturas de Pantalla
+<p align="center"> <img src="https://yourimageurl.com/screenshot1.png" alt="Screenshot 1" width="500"/> <img src="https://yourimageurl.com/screenshot2.png" alt="Screenshot 2" width="500"/> </p>
